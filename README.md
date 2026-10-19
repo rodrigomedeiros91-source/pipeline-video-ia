@@ -1,93 +1,95 @@
-# Pipeline de vídeo com IA
+# AI Video Pipeline
 
-Dois sistemas de edição de vídeo que construí em Python, com IA em cada etapa:
+[![tests](https://github.com/rodrigomedeiros91-source/pipeline-video-ia/actions/workflows/tests.yml/badge.svg)](https://github.com/rodrigomedeiros91-source/pipeline-video-ia/actions/workflows/tests.yml)
 
-1. **Canal de história [The Myth Troll](https://www.youtube.com/@TheMythTroll)** (YouTube, em inglês): do roteiro ao vídeo publicado. Escreve o roteiro, gera as ilustrações, narra, monta o vídeo longo, corta os Shorts e agenda tudo pela API do YouTube.
-2. **Cortes de podcast** (`podcast/`): transforma um episódio gravado em 30 Shorts, 5 cortes longos, 5 médios e capas. Uso em produção para um cliente.
+*[Leia em português](README.pt-BR.md)*
 
-> **English summary:** Two AI-powered video pipelines in Python. (1) A faceless YouTube history channel: Claude writes the script, gpt-image draws one illustration per sentence, ElevenLabs narrates, FFmpeg assembles the 16:9 video and the vertical Shorts, and the YouTube Data API schedules everything. (2) A podcast clipper used for a paying client: speaker diarization, face-tracking vertical crop (OpenCV YuNet), word-by-word captions, animated logo sting, and a ready-to-upload delivery folder.
+Two video-editing systems I built in Python, with AI at every step:
 
-## Resultado
+1. **History channel [The Myth Troll](https://www.youtube.com/@TheMythTroll)** (YouTube, in English): from script to published video. It writes the script, generates the illustrations, narrates, assembles the long-form video, cuts the Shorts and schedules everything through the YouTube API.
+2. **Podcast clipper** (`podcast/`): turns a recorded episode into 30 Shorts, 5 long cuts, 5 mid-length cuts and covers. In production for a client.
 
-| Vídeo longo (16:9) | Short (9:16), uma ilustração por frase |
+## Results
+
+| Long-form (16:9) | Short (9:16), one illustration per sentence |
 | --- | --- |
-| ![Quadro do vídeo Who Ruled Italy](docs/longo-quadro.jpg) | ![Quatro quadros de um Short](docs/short-quadros.jpg) |
+| ![Frame from Who Ruled Italy](docs/longo-quadro.jpg) | ![Four frames from a Short](docs/short-quadros.jpg) |
 
-Capas geradas pelo pipeline:
+Thumbnails made by the pipeline:
 
 ![Who Ruled Italy](docs/thumb-who-ruled-italy.jpg) ![Wrong Inventors](docs/thumb-wrong-inventors.jpg) ![Quotes Never Said](docs/thumb-quotes-never-said.jpg)
 
-- 3 episódios publicados, cada um com 7 Shorts. Exemplos: [Who Ruled Italy](https://youtu.be/4_CfeSLyVeA) e [Wrong Inventors](https://youtu.be/uCsNsdAo85E).
-- Shorts com 71 a 86% de retenção nos primeiros segundos, segundo o YouTube Studio, depois de ajustar os ganchos com `fabrica.retencao`.
+- 3 episodes published, each with 7 Shorts. Examples: [Who Ruled Italy](https://youtu.be/4_CfeSLyVeA) and [Wrong Inventors](https://youtu.be/uCsNsdAo85E).
+- Shorts with 71–86% early retention in YouTube Studio, after tuning the hooks with `fabrica.retencao`.
 
-## 1. Canal de história
+## 1. History channel
 
 ```mermaid
 flowchart LR
-    R[Roteiro JSON<br/>Claude] --> V[Banco visual<br/>gpt-image + Wikimedia]
-    R --> N[Narração<br/>ElevenLabs]
-    V --> M[Montagem<br/>FFmpeg + Pillow]
+    R[Script JSON<br/>Claude] --> V[Visual bank<br/>gpt-image + Wikimedia]
+    R --> N[Narration<br/>ElevenLabs]
+    V --> M[Assembly<br/>FFmpeg + Pillow]
     N --> M
-    M --> L[Vídeo longo 16:9<br/>+ legendas + descrição]
-    M --> S[Shorts 9:16<br/>gancho, legenda, cartão final]
-    L --> Y[YouTube Data API<br/>envio e agendamento]
+    M --> L[16:9 long-form<br/>+ captions + description]
+    M --> S[9:16 Shorts<br/>hook, captions, end card]
+    L --> Y[YouTube Data API<br/>upload and scheduling]
     S --> Y
-    Y --> E[Studio: CSV de retenção] --> A[fabrica.retencao<br/>onde o público saiu]
+    Y --> E[Studio: retention CSV] --> A[fabrica.retencao<br/>where viewers left]
     A -.-> R
 ```
 
-| Módulo | O que faz |
+| Module | What it does |
 | --- | --- |
-| `fabrica/roteiro.py` | Valida o roteiro JSON (capítulos, frases, cenas) antes de gastar com imagem e voz |
-| `fabrica/visual.py`, `cenas.py`, `commons.py` | Gera as cenas no estilo do mascote (gpt-image) e busca imagens de acervo com licença livre |
-| `fabrica/recortes.py` | Formato atual: uma ilustração por frase, frase escrita na tela, cortes secos, série em Partes |
-| `fabrica/montagem.py`, `clipes.py`, `camadas.py` | Monta o vídeo longo: narração, música com ducking, camadas e transições |
-| `fabrica/shorts.py`, `vertical.py` | Corta os Shorts verticais com gancho, legenda queimada e cartão final |
-| `fabrica/youtube.py` | Envia e agenda pela API do YouTube, com login OAuth renovado sozinho |
-| `fabrica/referencias.py` | Acha vídeos fora da curva num tema (views ÷ mediana do próprio canal) |
-| `fabrica/retencao.py` | Lê o CSV de retenção do Studio e mostra o que a narração dizia onde o público saiu |
-| `historia/` | Roteiros publicados, poses do mascote, fontes e estilo |
+| `fabrica/roteiro.py` | Validates the script JSON (chapters, sentences, scenes) before spending on images and voice |
+| `fabrica/visual.py`, `cenas.py`, `commons.py` | Generates scenes in the mascot's style (gpt-image) and finds freely licensed archive images |
+| `fabrica/recortes.py` | Current format: one illustration per sentence, sentence on screen, hard cuts, series in Parts |
+| `fabrica/montagem.py`, `clipes.py`, `camadas.py` | Builds the long-form video: narration, music with ducking, layers and transitions |
+| `fabrica/shorts.py`, `vertical.py` | Cuts vertical Shorts with a hook, burned-in captions and an end card |
+| `fabrica/youtube.py` | Uploads and schedules through the YouTube API, renewing the OAuth login on its own |
+| `fabrica/referencias.py` | Finds outlier videos on a topic (views ÷ the channel's own median) |
+| `fabrica/retencao.py` | Reads the Studio retention CSV and shows what the narration said where viewers left |
+| `historia/` | Published scripts, mascot poses, fonts and style |
 
 ```bash
-python -m fabrica.recortes who-ruled-italy --musica "trilha.mp3"   # vídeo longo + Partes
-python -m fabrica.shorts who-ruled-italy --musica "trilha.mp3" --inicio 2026-10-19
-python -m fabrica.youtube who-ruled-italy                          # envia e agenda
+python -m fabrica.recortes who-ruled-italy --musica "track.mp3"   # long-form + Parts
+python -m fabrica.shorts who-ruled-italy --musica "track.mp3" --inicio 2026-10-19
+python -m fabrica.youtube who-ruled-italy                         # upload and schedule
 ```
 
-## 2. Cortes de podcast
+## 2. Podcast clipper
 
-`podcast/cortes.py` lê duas coisas da pasta do episódio: `falantes.json`, a transcrição com quem fala cada palavra (ElevenLabs Scribe), e `edicao.json`, as decisões editoriais com os tempos de cada corte.
+`podcast/cortes.py` reads two files from the episode folder: `falantes.json`, the transcript with the speaker of every word (ElevenLabs Scribe), and `edicao.json`, the editorial decisions with the timestamps of each cut.
 
-- **Reenquadramento vertical pelo rosto:** detecta rostos com OpenCV YuNet e segue quem está falando, sem trocar de plano em falas curtas ("uhum").
-- **Legenda palavra a palavra** em ASS, com destaque na palavra dita.
-- **Estrutura de Short que segura o público:** chamada forte, depois a pergunta do apresentador e então a resposta, com a vinheta do logo entrando por cima da fala.
-- **Capa no primeiro quadro**, com título e destaque em `[colchetes]`, exportada também como `.capa.jpg`.
-- **Entrega pronta:** pastas numeradas, legendas `.srt` e um LEIA-ME em PDF com títulos, descrições e calendário de postagem.
-- **Reprodução lisa no celular:** GOP de 2 s, sem quadros B, áudio com carimbo de tempo regenerado. `verificar.py` confere isso antes da entrega.
+- **Face-tracking vertical crop:** detects faces with OpenCV YuNet and follows whoever is speaking, without switching shots on short interjections.
+- **Word-by-word captions** in ASS, highlighting the word being spoken.
+- **A Short structure that holds viewers:** a strong teaser, then the host's question, then the answer, with the logo sting landing over the speech.
+- **Cover on the first frame**, with the title and `[bracketed]` highlight, also exported as `.capa.jpg`.
+- **Ready-to-use delivery:** numbered folders, `.srt` captions and a PDF readme with titles, descriptions and a posting calendar.
+- **Smooth playback on phones:** 2 s GOP, no B-frames, regenerated audio timestamps. `verificar.py` checks this before delivery.
 
 ```bash
-python podcast/cortes.py EP01 roteiro    # confere texto e duração de cada corte sem renderizar
+python podcast/cortes.py EP01 roteiro    # check each cut's text and length without rendering
 python podcast/cortes.py EP01 shorts
 python podcast/cortes.py EP01 longos
 python podcast/cortes.py EP01 entrega
 ```
 
-A marca, os episódios e as transcrições do cliente não estão neste repositório. Para usar, coloque seu `logo.png` em `podcast/marca/` e rode `marca/animacao.py`.
+The client's brand, episodes and transcripts are not in this repository. To use it, put your `logo.png` in `podcast/marca/` and run `marca/animacao.py`.
 
-## Rodar
+## Run
 
 ```bash
-pip install -r requirements.txt   # também precisa do FFmpeg no PATH
-cp .env.example .env              # chaves da Anthropic, OpenAI e ElevenLabs
+pip install -r requirements.txt   # FFmpeg must also be on PATH
+cp .env.example .env              # Anthropic, OpenAI and ElevenLabs keys
 pytest
 ```
 
 ## Stack
 
-Python, FFmpeg, Pillow, OpenCV, Claude (Anthropic), gpt-image (OpenAI), ElevenLabs (voz e transcrição), YouTube Data API.
+Python, FFmpeg, Pillow, OpenCV, Claude (Anthropic), gpt-image (OpenAI), ElevenLabs (voice and transcription), YouTube Data API.
 
-## Autor
+## Author
 
-**Rodrigo Medeiros**: consultor de IA e automação e editor de vídeo, Rio de Janeiro. [LinkedIn](https://www.linkedin.com/in/rodrigo-r-244203161/)
+**Rodrigo Medeiros**, AI & automation consultant and video editor, Rio de Janeiro. [LinkedIn](https://www.linkedin.com/in/rodrigo-r-244203161/)
 
-Escrito com desenvolvimento assistido por IA (Claude Code), com direção editorial, testes e decisões de arquitetura meus. As ilustrações são geradas por IA a partir das poses originais do mascote, que também são minhas.
+Written with AI-assisted development (Claude Code); the editorial direction, tests and architecture decisions are mine. The illustrations are AI-generated from the mascot's original poses, which are also mine. Code comments and CLI flags are in Portuguese.
