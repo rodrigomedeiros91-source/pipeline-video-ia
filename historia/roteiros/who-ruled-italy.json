@@ -1,0 +1,651 @@
+{
+  "slug": "who-ruled-italy",
+  "formato": 3,
+  "titulo": "Who Ruled Italy? 2,500 Years in 7 Parts",
+  "descricao_youtube": "Kings, senators, emperors, popes, foreign crowns, a dictator, and finally the voters. The full story of who ruled the land we call Italy, from the Roman Republic in 509 BC to the Italian Republic of 1946, including how a pope ended up with his own country the size of a golf course. Every claim is sourced below.",
+  "tags": [
+    "history",
+    "italy",
+    "history of italy",
+    "roman republic",
+    "roman empire",
+    "papal states",
+    "vatican city",
+    "italian unification",
+    "garibaldi",
+    "lateran treaty",
+    "charlemagne",
+    "italian republic",
+    "history explained",
+    "animated history"
+  ],
+  "intro": [
+    {
+      "narracao": "In two and a half thousand years, Italy was run by kings, senators, emperors, popes, foreign crowns and a dictator. Then its people voted for none of the above.",
+      "visual": {
+        "tipo": "cena",
+        "busca": "",
+        "cena": "The channel mascot troll standing on a giant map of the Italian boot, juggling a Roman legionary helmet, a golden royal crown, a white papal tiara and a wooden ballot box, looking at the camera with a calm grin, sunny Mediterranean sky behind him",
+        "texto_tela": "",
+        "mascote": ""
+      }
+    },
+    {
+      "narracao": "This is the story of who ruled that boot-shaped peninsula, told in seven parts.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "Who ruled Italy? 509 BC — 1946",
+        "mascote": "apontando"
+      }
+    }
+  ],
+  "capitulos": [
+    {
+      "titulo": "The Republic",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 1: The Republic #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#rome"
+        ],
+        "abertura": "Who ruled Italy? Part one.",
+        "pergunta": "Part two: Rome gets an emperor. Follow."
+      },
+      "trechos": [
+        {
+          "narracao": "According to Roman tradition, in 509 BC the people of Rome threw out their last king and swore they would never have another one.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "Roman citizens in togas cheering as they push a sulking king in a purple robe out through the city gates, his golden crown rolling on the road; the mascot troll, wearing a toga over his green suspenders, waves him goodbye with a smile",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Instead they built a republic: two consuls elected for one year at a time, advised by a senate of rich families.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Cicero denounces Catiline Maccari fresco",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "Over the next centuries, that one city conquered the whole peninsula, then Carthage, Greece and Spain.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Roman Republic expansion",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "mapa"
+          }
+        },
+        {
+          "narracao": "But winning generals got rich and dangerous. In 49 BC, Julius Caesar crossed the Rubicon with his army and started a civil war.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "509 BC → 264 BC → 49 BC → 44 BC",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "He won and was named dictator for life. Weeks later, in 44 BC, senators stabbed him to death. The republic was already over.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Death of Julius Caesar Camuccini",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Traditional founding of the Republic in 509 BC after the expulsion of Tarquin; consuls and senate; expansion across Italy and the Mediterranean; Caesar and the end of the Republic",
+          "url": "https://en.wikipedia.org/wiki/Roman_Republic"
+        },
+        {
+          "afirmacao": "Caesar crossed the Rubicon in 49 BC; appointed dictator perpetuo in early 44 BC; assassinated on 15 March 44 BC",
+          "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        }
+      ]
+    },
+    {
+      "titulo": "The Empire",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 2: The Emperors #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#romanempire"
+        ],
+        "abertura": "Who ruled Italy? Part two.",
+        "pergunta": "Part three: Rome changes gods. Follow."
+      },
+      "trechos": [
+        {
+          "narracao": "Caesar's adopted son Octavian won the next civil war, and in 27 BC the senate named him Augustus. He never once called himself king.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A young ruler in a laurel wreath politely refusing a golden crown offered by senators, while a huge ring of keys labeled with symbols of Rome hangs from his belt; the mascot troll, dressed as a senator, raises an eyebrow and nudges the senator next to him",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "He didn't need to. He controlled the army, the money and the elections, and the senate almost always agreed with him.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Augustus of Prima Porta",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "By 117 AD the empire stretched from Britain to Iraq, with Italy in the middle, paying almost no direct taxes.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Roman Empire 117 AD",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "globo"
+          }
+        },
+        {
+          "narracao": "Then the privilege faded. In 212 almost every free person became a Roman citizen, and in 330 the capital moved to Constantinople.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "27 BC → 117 → 212 → 330",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Rome was still famous, just no longer in charge. And the emperor who moved the capital had a new god.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Constantine the Great colossal head",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Octavian became Augustus in 27 BC and ruled as princeps while keeping republican forms",
+          "url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+          "afirmacao": "Greatest extent under Trajan in 117 AD; Italy's privileged status; the Constitutio Antoniniana of 212",
+          "url": "https://en.wikipedia.org/wiki/Roman_Empire"
+        },
+        {
+          "afirmacao": "Constantinople dedicated as the new capital in 330",
+          "url": "https://en.wikipedia.org/wiki/Constantinople"
+        }
+      ]
+    },
+    {
+      "titulo": "A Christian Empire Falls",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 3: The Fall of Rome #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#fallofrome"
+        ],
+        "abertura": "Who ruled Italy? Part three.",
+        "pergunta": "Part four: the pope becomes a king. Follow."
+      },
+      "trechos": [
+        {
+          "narracao": "In 312, before a battle outside Rome, Emperor Constantine had his soldiers mark a Christian symbol on their shields. He won.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "Roman soldiers by a river at dawn painting a Christian chi-rho symbol on their red shields, while their emperor in purple watches the sky; the mascot troll, dressed as a legionary, carefully paints the symbol on his own shield with his tongue out in concentration",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "In 313 Christians could worship freely, and by 380 Christianity was the official religion of the whole empire.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "312 → 313 → 380 → 410 → 476",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Meanwhile the West was falling apart. In 410 the Visigoths sacked Rome, the first enemy to take it in eight hundred years.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Alaric I Rome engraving",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "assustado"
+          }
+        },
+        {
+          "narracao": "In 476 a Germanic general, Odoacer, removed the last western emperor, a teenager, and didn't bother replacing him.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "476: no more emperor in the West",
+            "mascote": "dando_de_ombros"
+          }
+        },
+        {
+          "narracao": "Rome had no emperor anymore. But it still had a bishop, and the bishop of Rome was about to get much bigger.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Old Saint Peter's Basilica fresco",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Battle of the Milvian Bridge in 312 and the Christian symbol on the shields",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+        },
+        {
+          "afirmacao": "Edict of Milan (313) granted religious tolerance",
+          "url": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+        },
+        {
+          "afirmacao": "Edict of Thessalonica (380) made Nicene Christianity the state religion",
+          "url": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica"
+        },
+        {
+          "afirmacao": "Sack of Rome by the Visigoths in 410, the first in about 800 years",
+          "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)"
+        },
+        {
+          "afirmacao": "Odoacer deposed Romulus Augustulus in 476 and sent the imperial regalia to Constantinople",
+          "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+        }
+      ]
+    },
+    {
+      "titulo": "The Pope Becomes a King",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 4: The Pope's Kingdom #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#papalstates"
+        ],
+        "abertura": "Who ruled Italy? Part four.",
+        "pergunta": "Part five: a fake document. Follow."
+      },
+      "trechos": [
+        {
+          "narracao": "On Christmas Day in the year 800, Pope Leo the Third crowned the Frankish king Charlemagne emperor. His biographer says Charlemagne didn't see it coming.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "Inside a candlelit old basilica on Christmas Day, a pope in white places a golden crown on a big bearded king kneeling in prayer, who looks up startled; the mascot troll, dressed as a monk in a brown robe, holds a tall candle and grins at the camera",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Why could a bishop crown emperors? After Rome fell, Goths, Byzantines and Lombards fought over Italy, and the popes needed a protector.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Italy 600 Lombards Byzantine",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "In 756 the Frankish king Pepin beat the Lombards and gave their lands in central Italy to the pope. The Papal States were born.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "756: the Papal States are born",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Now the pope was two things at once: head of the Western Church, and a king with land, taxes and armies.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Papal States",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "To prove it was legitimate, popes pointed to an old document in which Emperor Constantine handed them the West. There was one problem.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Donation of Constantine fresco",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Charlemagne crowned emperor by Leo III on Christmas Day 800; Einhard's claim that he would not have entered the church had he known",
+          "url": "https://en.wikipedia.org/wiki/Charlemagne"
+        },
+        {
+          "afirmacao": "Lombard invasion of Italy and the Byzantine Exarchate of Ravenna",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Lombards"
+        },
+        {
+          "afirmacao": "Donation of Pepin (756) as the legal basis of the Papal States",
+          "url": "https://en.wikipedia.org/wiki/Donation_of_Pepin"
+        },
+        {
+          "afirmacao": "The Papal States as the pope's temporal realm in central Italy",
+          "url": "https://en.wikipedia.org/wiki/Papal_States"
+        }
+      ]
+    },
+    {
+      "titulo": "A Fake Document and a Broken Italy",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 5: The Fake Document #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#renaissance"
+        ],
+        "abertura": "Who ruled Italy? Part five.",
+        "pergunta": "Part six: a thousand red shirts. Follow."
+      },
+      "trechos": [
+        {
+          "narracao": "The document was fake. In 1440 a scholar, Lorenzo Valla, showed its Latin was centuries too young to be Constantine's.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A Renaissance scholar in a red cap at a cluttered desk points with a quill at a line in an old parchment, under a magnifying glass, while two shocked cardinals peek around a bookshelf; the mascot troll, dressed as the scholar's apprentice in a tunic and cap, holds a candle closer with a knowing look",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "The popes kept their lands anyway. Italy was not one country, but a patchwork of rival states.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Italy 1494",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "mapa"
+          }
+        },
+        {
+          "narracao": "Venice ruled the sea, Florence the banks, Milan had dukes, Naples had kings. They made the Renaissance, and kept fighting.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Florence view 15th century painting",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "Divided and rich, Italy was easy prey: from 1494 France, Spain and Austria took turns ruling it.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1440 → 1494 → 1559 → 1809 → 1815",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "When Napoleon fell in 1815, Europe handed Italy back to its old rulers. But many Italians now dreamed of one country.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Italy 1815 Congress of Vienna",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Lorenzo Valla proved the Donation of Constantine a forgery in 1440 using linguistic evidence",
+          "url": "https://en.wikipedia.org/wiki/Lorenzo_Valla"
+        },
+        {
+          "afirmacao": "The Donation of Constantine as an 8th-century forgery",
+          "url": "https://en.wikipedia.org/wiki/Donation_of_Constantine"
+        },
+        {
+          "afirmacao": "The Italian Wars from 1494 and foreign domination of Italy",
+          "url": "https://en.wikipedia.org/wiki/Italian_Wars"
+        },
+        {
+          "afirmacao": "Napoleon annexed the Papal States in 1809; the Congress of Vienna restored the old states in 1815",
+          "url": "https://en.wikipedia.org/wiki/Papal_States"
+        }
+      ]
+    },
+    {
+      "titulo": "One Italy, One Prisoner",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 6: Italy Is Born #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#garibaldi"
+        ],
+        "abertura": "Who ruled Italy? Part six.",
+        "pergunta": "Part seven: a dictator and a vote. Follow."
+      },
+      "trechos": [
+        {
+          "narracao": "In May 1860, about a thousand volunteers in red shirts, led by Giuseppe Garibaldi, landed in Sicily and conquered a whole kingdom.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "About a thousand volunteers in bright red shirts leaping off two old steamships onto a sunny Sicilian beach, cheering and waving the Italian tricolor; the mascot troll in a red shirt over his green suspenders runs ahead holding the flag",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Garibaldi handed it to King Victor Emmanuel the Second, and in 1861 the Kingdom of Italy was declared.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Meeting of Teano Garibaldi Victor Emmanuel",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "comemorando"
+          }
+        },
+        {
+          "narracao": "Except Rome. The French protected the pope until 1870, when they left to fight Prussia and Italian soldiers broke through Rome's walls.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Breach of Porta Pia 1870",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "Pope Pius the Ninth shut himself inside the Vatican and called himself a prisoner. His successors did the same for fifty-nine years.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "\"Prisoner in the Vatican\" 1870–1929",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Italy had a king, a parliament and Rome as its capital. Peace with the pope would come from a very unlikely man.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1860 → 1861 → 1866 → 1870",
+            "mascote": "pensando"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Expedition of the Thousand landed at Marsala in May 1860 and conquered the Kingdom of the Two Sicilies",
+          "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand"
+        },
+        {
+          "afirmacao": "Proclamation of the Kingdom of Italy in 1861; Venice in 1866",
+          "url": "https://en.wikipedia.org/wiki/Italian_unification"
+        },
+        {
+          "afirmacao": "Capture of Rome on 20 September 1870 after French troops withdrew for the Franco-Prussian War",
+          "url": "https://en.wikipedia.org/wiki/Capture_of_Rome"
+        },
+        {
+          "afirmacao": "Popes considered themselves prisoners in the Vatican from 1870 to 1929",
+          "url": "https://en.wikipedia.org/wiki/Prisoner_in_the_Vatican"
+        }
+      ]
+    },
+    {
+      "titulo": "A Dictator, a War and a Vote",
+      "short": {
+        "titulo": "Who Ruled Italy? Part 7: Italians Fire the King #Shorts",
+        "hashtags": [
+          "#history",
+          "#italy",
+          "#republic"
+        ],
+        "abertura": "Who ruled Italy? Part seven, the finale.",
+        "pergunta": "Which country should I do next?"
+      },
+      "trechos": [
+        {
+          "narracao": "On June 2, 1946, Italians voted on their king. Fifty-four percent chose a republic, and the king left for exile.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "Italian men and women in 1940s clothes lining up at a polling station; a woman proudly drops her ballot into a wooden box, while in the background a sad king in uniform carries his suitcases toward a waiting car; the mascot troll in a 1940s suit and hat holds his own ballot and tips his hat",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Why? In 1922 the king had let Benito Mussolini's fascists take power, and Italy became a dictatorship.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1922 → 1929 → 1940 → 1943 → 1946",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Mussolini made peace with the pope: the 1929 Lateran Treaty created Vatican City, the smallest country on Earth.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Vatican City aerial view",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "Then he joined Hitler in World War Two. Italy was invaded and split in two, and in 1945 partisans executed him.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Monte Cassino ruins 1944",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "assustado"
+          }
+        },
+        {
+          "narracao": "So after twenty-five centuries, Italy ended up where Rome began in 509 BC: a republic that had just thrown out its king.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "509 BC — 1946: a republic again",
+            "mascote": "comemorando"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "2 June 1946 institutional referendum: about 54.3% for the republic; Umberto II left for exile in Portugal",
+          "url": "https://en.wikipedia.org/wiki/1946_Italian_institutional_referendum"
+        },
+        {
+          "afirmacao": "March on Rome in October 1922; the king appointed Mussolini prime minister",
+          "url": "https://en.wikipedia.org/wiki/March_on_Rome"
+        },
+        {
+          "afirmacao": "The 1929 Lateran Treaty created Vatican City, about 44 hectares",
+          "url": "https://en.wikipedia.org/wiki/Vatican_City"
+        },
+        {
+          "afirmacao": "Italy in the Second World War, the 1943 armistice and the death of Mussolini in April 1945",
+          "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_II"
+        }
+      ]
+    }
+  ],
+  "outro": [
+    {
+      "narracao": "Kings, consuls, emperors, popes, foreign crowns, a dictator and finally the voters. Italy has tried almost every way to run a country, and it remembers all of them.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "2,500 years, 1 boot",
+        "mascote": "explicando"
+      }
+    },
+    {
+      "narracao": "Tell me in the comments which country's story we should tell next. Subscribe and turn on notifications so you don't miss it.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "Subscribe · Like · Notifications",
+        "mascote": "apontando"
+      }
+    }
+  ],
+  "alertas": [
+    "Formato novo (série em Partes, formato 3): cada capítulo é uma Parte inteira que vira um Short de até 60 s; a fala 'pergunta' faz o gancho para a Parte seguinte.",
+    "Tom neutro e leve, sem Troll-o-meter; o Snorri aparece dentro de cada cena vestido de acordo com a época.",
+    "Parte 1: 509 a.C. e a expulsão de Tarquínio são a data e o relato tradicionais romanos; o roteiro diz 'according to Roman tradition'.",
+    "Parte 2: 'quase nenhum imposto direto' na Itália é simplificação (a Itália ficou isenta do tributum por muito tempo).",
+    "Parte 3: a fala 'teenager' para Rômulo Augústulo segue a estimativa usual (~16 anos).",
+    "Parte 4: a surpresa de Carlos Magno vem do biógrafo dele, Einhard; o roteiro diz 'his biographer claims'. A fala 'handed the West' resume a Doação de Constantino.",
+    "Parte 5: Valla é datado em 1440 na maioria das fontes (há quem diga 1439).",
+    "Parte 7: 54,3% é o resultado oficial; a execução de Mussolini é contada de forma factual e sem imagem."
+  ]
+}

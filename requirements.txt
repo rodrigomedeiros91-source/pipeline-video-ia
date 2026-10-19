@@ -1,0 +1,7 @@
+anthropic>=1.11
+elevenlabs
+python-dotenv
+pytest
+openai>=1.80
+pillow
+opencv-python

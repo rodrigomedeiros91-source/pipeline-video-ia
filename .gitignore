@@ -1,0 +1,31 @@
+.venv/
+.env
+work/
+output/
+__pycache__/
+*.tmp
+/*.mp4
+historia/visual/
+.superpowers/
+historia/musica/
+historia/montagem/
+historia/videos/
+historia/amostras-voz/
+historia/shorts/
+
+ferramentas/
+campanhas/fontes/
+
+# Motion Maxing: runtime (Apache) e GSAP fora do git
+historia/motion/*/runtime/
+historia/motion/*/look*/
+historia/motion/*/stills/
+# renders do formato recortes (ilustrações, clipes, Partes); o historia/recortes/<slug>.json fica no git
+historia/recortes/*/
+
+# podcast/: saídas, modelo YuNet e marca do cliente ficam fora
+podcast/*/
+!podcast/marca/
+podcast/marca/*
+!podcast/marca/animacao.py
+podcast/modelos/

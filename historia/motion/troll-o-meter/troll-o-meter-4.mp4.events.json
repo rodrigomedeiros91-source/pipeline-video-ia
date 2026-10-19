@@ -1,0 +1,92 @@
+[
+ {
+  "t": 0,
+  "frame": 0,
+  "type": "enter",
+  "label": "#title"
+ },
+ {
+  "t": 0.1333,
+  "frame": 4,
+  "type": "enter",
+  "label": "#n1"
+ },
+ {
+  "t": 0.1333,
+  "frame": 4,
+  "type": "cascade",
+  "label": "#n1"
+ },
+ {
+  "t": 0.2,
+  "frame": 6,
+  "type": "enter",
+  "label": "#n2"
+ },
+ {
+  "t": 0.2,
+  "frame": 6,
+  "type": "cascade",
+  "label": "#n2"
+ },
+ {
+  "t": 0.2667,
+  "frame": 8,
+  "type": "enter",
+  "label": "#n3"
+ },
+ {
+  "t": 0.2667,
+  "frame": 8,
+  "type": "cascade",
+  "label": "#n3"
+ },
+ {
+  "t": 0.3333,
+  "frame": 10,
+  "type": "enter",
+  "label": "#n4"
+ },
+ {
+  "t": 0.3333,
+  "frame": 10,
+  "type": "cascade",
+  "label": "#n4"
+ },
+ {
+  "t": 0.4,
+  "frame": 12,
+  "type": "enter",
+  "label": "#n5"
+ },
+ {
+  "t": 0.4,
+  "frame": 12,
+  "type": "cascade",
+  "label": "#n5"
+ },
+ {
+  "t": 0.4,
+  "frame": 12,
+  "type": "enter",
+  "label": "#lo"
+ },
+ {
+  "t": 0.4667,
+  "frame": 14,
+  "type": "enter",
+  "label": "#hi"
+ },
+ {
+  "t": 1.6,
+  "frame": 48,
+  "type": "snap",
+  "label": "needle lands on 4"
+ },
+ {
+  "t": 1.6333,
+  "frame": 49,
+  "type": "enter",
+  "label": "#score"
+ }
+]

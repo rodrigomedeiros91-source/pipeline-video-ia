@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Troll-o-meter</title>
+<meta name="viewport" content="width=1920, height=1080">
+<style>
+/* ACCENT = the verdict (needle, red zone, the score). Ink on the channel's parchment; Patrick Hand like the chalk cards. */
+@font-face { font-family: "Patrick Hand"; src: url("./PatrickHand-Regular.ttf"); }
+:root { --ink: #2B2118; --accent: #B3261E; --font: "Patrick Hand", cursive; }
+* { box-sizing: border-box; }
+html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+#main { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; overflow: hidden;
+        background: url("./pergaminho.png") center / cover; color: var(--ink); font-family: var(--font); }
+/* the right ~600 px stay empty: the montage lays the troll pose there */
+#cam { position: absolute; inset: 0; }
+#title { position: absolute; left: 300px; top: 52px; width: 800px; text-align: center; font-size: 132px; line-height: 150px; white-space: pre; }
+#dial { position: absolute; left: 0; top: 0; }
+#score { position: absolute; left: 400px; top: 720px; width: 600px; text-align: center; font-size: 250px; line-height: 260px;
+         color: var(--accent); white-space: pre; }
+</style>
+</head>
+<body>
+<div id="main">
+  <div id="cam">
+    <div id="title">Troll-o-meter</div>
+    <svg id="dial" width="1920" height="1080" viewBox="0 0 1920 1080">
+      <defs>
+        <!-- static ink wobble: same pixels every frame, so it stays seek-safe -->
+        <filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7"/>
+          <feDisplacementMap in="SourceGraphic" scale="4"/>
+        </filter>
+        <pattern id="hatchInk" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+          <line x1="0" y1="0" x2="0" y2="18" stroke="#2B2118" stroke-width="2.2" opacity=".45"/>
+        </pattern>
+        <pattern id="hatchRed" width="13" height="13" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)">
+          <line x1="0" y1="0" x2="0" y2="13" stroke="#B3261E" stroke-width="3"/>
+        </pattern>
+      </defs>
+      <g filter="url(#ink)" fill="none" stroke="#2B2118" stroke-linecap="round">
+        <path id="zone4" d="" fill="url(#hatchInk)" stroke="none"/>
+        <path id="zone5" d="" fill="url(#hatchRed)" stroke="none"/>
+        <path id="arc" d="" stroke-width="8"/>
+        <path id="arcIn" d="" stroke-width="4"/>
+        <g id="ticks" stroke-width="5"></g>
+      </g>
+      <g id="nums" font-family="Patrick Hand, cursive" font-size="70" fill="#2B2118" text-anchor="middle"></g>
+      <text id="lo" x="345" y="750" font-family="Patrick Hand, cursive" font-size="44" fill="#2B2118" text-anchor="middle">mostly true</text>
+      <text id="hi" x="1055" y="750" font-family="Patrick Hand, cursive" font-size="44" fill="#B3261E" text-anchor="middle">total myth</text>
+      <g id="needle" filter="url(#ink)">
+        <path d="M 690 690 L 700 330 L 710 690 Z" fill="#B3261E" stroke="#2B2118" stroke-width="4" stroke-linejoin="round"/>
+        <circle cx="700" cy="690" r="30" fill="#2B2118"/>
+        <circle cx="700" cy="690" r="11" fill="#E9DDC3"/>
+      </g>
+    </svg>
+    <div id="score">5/5</div>
+  </div>
+</div>
+
+<script src="./runtime/vendor/gsap.min.js"></script>
+<script src="./runtime/motion.js"></script>
+<script>
+const N = Number((location.search.match(/n=(\d)/) || [])[1] || 5);   // ?n=4 or ?n=5
+const CX = 700, CY = 690, R = 380, RI = 300;
+const pt = (a, r) => [CX + r * Math.sin(a * Math.PI / 180), CY - r * Math.cos(a * Math.PI / 180)];  // a = degrees from 12 o'clock
+const arc = (a0, a1, r) => { const [x0, y0] = pt(a0, r), [x1, y1] = pt(a1, r); return `M ${x0} ${y0} A ${r} ${r} 0 0 1 ${x1} ${y1}`; };
+const sector = (a0, a1) => `${arc(a0, a1, R)} L ${pt(a1, RI)} A ${RI} ${RI} 0 0 0 ${pt(a0, RI)} Z`.replace(/,/g, ' ');
+const ang = s => -90 + 36 * s;                                   // score s (0..5) on the dial
+document.getElementById('arc').setAttribute('d', arc(-90, 90, R));
+document.getElementById('arcIn').setAttribute('d', arc(-90, 90, RI));
+document.getElementById('zone4').setAttribute('d', sector(ang(3), ang(4)));
+document.getElementById('zone5').setAttribute('d', sector(ang(4), ang(5)));
+const SVGNS = 'http://www.w3.org/2000/svg';
+for (let k = 0; k <= 5; k++) {
+  const [x0, y0] = pt(ang(k), RI - 6), [x1, y1] = pt(ang(k), R + 22);
+  const l = document.createElementNS(SVGNS, 'line');
+  Object.entries({ x1: x0, y1: y0, x2: x1, y2: y1 }).forEach(([a, v]) => l.setAttribute(a, v));
+  document.getElementById('ticks').appendChild(l);
+  if (k < 5) {
+    const [tx, ty] = pt(ang(k + .5), R + 62), t = document.createElementNS(SVGNS, 'text');
+    t.setAttribute('x', tx); t.setAttribute('y', ty + 24); t.id = 'n' + (k + 1); t.textContent = k + 1;
+    if (k === 4) t.setAttribute('fill', '#B3261E');
+    document.getElementById('nums').appendChild(t);
+  }
+}
+document.getElementById('score').textContent = N + '/5';
+
+const M = Motion.film({ fps: 30, duration: 2.7, width: 1920, height: 1080, clock: 'smooth' });
+const arcLen = Math.PI * R, inLen = Math.PI * RI;
+['arc', 'arcIn'].forEach((id, i) => {
+  const el = document.getElementById(id), L = i ? inLen : arcLen;
+  el.setAttribute('stroke-dasharray', L);
+  M.kf(el, 'strokeDashoffset', [[0, L * .55], [12 + 2 * i, 0, 'softLand']]);   // the dial is already being inked on frame 0
+});
+M.kf('#ticks', 'opacity', [[0, 0], [6, 1, 'softLand']]);
+M.kf('#zone4', 'opacity', [[0, 0], [8, 0], [16, 1, 'softLand']]);
+M.kf('#zone5', 'opacity', [[0, 0], [10, 0], [18, 1, 'softLand']]);
+M.cascade(['#n1', '#n2', '#n3', '#n4', '#n5'], { at: 4, gaps: 2,
+  fn: (el, f) => M.enter(el, { at: f, frames: 10, ease: 'softLand', from: { y: 26, opacity: 0 } }) });
+M.enter('#lo', { at: 12, frames: 10, ease: 'softLand', from: { y: 20, opacity: 0 } });
+M.enter('#hi', { at: 14, frames: 10, ease: 'softLand', from: { y: 20, opacity: 0 } });
+M.enter('#title', { at: 0, frames: 14, ease: 'snapSettle', from: { y: -60, scale: 1.35 } });
+
+// the needle: rests on "mostly true", climbs, hesitates on 3 like it might be fair, then slams into the verdict
+const needle = document.getElementById('needle');
+gsap.set(needle, { svgOrigin: `${CX} ${CY}` });   // rotate about the hub (SVG user units)
+M.kf(needle, 'rotation', [[0, -88], [12, -88], [22, ang(2.5), 'whip'], [34, ang(2.7), 'softInOut'],
+  [40, ang(2.45), 'softInOut'], [48, ang(N - .5), 'crashIn']]);
+M.mark(48, 'snap', 'needle lands on ' + N);
+M.enter('#score', { at: 49, frames: 12, ease: 'snapSettle', from: { scale: 2.6, blur: 10 } });
+if (N === 5) M.kf('#cam', 'x', [[48, 0], [50, -9], [52, 7], [54, -4], [57, 0, 'softLand']]);   // pegged: the whole dial knocks
+M.drift('#cam', { prop: 'scale', from: 1, to: 1.04, start: 58, end: 81 });              // never a dead frame on the hold
+window.__ready = Motion.loaded().then(() => { if (/selftest/.test(location.search)) Motion.selfTest(M, { samples: 24 }); });
+</script>
+</body>
+</html>

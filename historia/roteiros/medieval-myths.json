@@ -1,0 +1,909 @@
+{
+  "slug": "medieval-myths",
+  "formato": 2,
+  "titulo": "Nobody in the Middle Ages Thought the Earth Was Flat (And 6 More Myths)",
+  "descricao_youtube": "Nobody in the Middle Ages thought the Earth was flat, knights didn't need cranes to get on their horses, and the great witch burnings happened in the age of Shakespeare. Seven medieval 'facts' Hollywood sold you, where each one really came from, and why most of them were invented centuries later. Every claim is sourced below.",
+  "tags": [
+    "history",
+    "middle ages",
+    "medieval myths",
+    "history myths",
+    "flat earth myth",
+    "chastity belt",
+    "medieval hygiene",
+    "life expectancy",
+    "droit du seigneur",
+    "medieval armor",
+    "witch trials",
+    "washington irving",
+    "eleanor of aquitaine",
+    "braveheart"
+  ],
+  "intro": [
+    {
+      "narracao": "Nobody in the Middle Ages thought the Earth was flat. Knights didn't need cranes to climb onto their horses. And the great witch burnings? Wrong century entirely.",
+      "visual": {
+        "tipo": "cena",
+        "busca": "",
+        "cena": "The channel mascot troll standing deadpan with arms crossed in a medieval castle courtyard, next to a knight in full plate armor dangling ridiculously from a big wooden crane above a horse, while a stable boy struggles with the crane rope",
+        "texto_tela": "",
+        "mascote": ""
+      }
+    },
+    {
+      "narracao": "Today: seven medieval facts Hollywood sold you, and where each lie actually came from.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "7 medieval \"facts\". 0 true.",
+        "mascote": "apontando"
+      }
+    }
+  ],
+  "capitulos": [
+    {
+      "titulo": "The Flat Earth",
+      "short": {
+        "titulo": "Medieval People Knew the Earth Was Round #Shorts",
+        "hashtags": [
+          "#history",
+          "#medieval",
+          "#flatearth"
+        ],
+        "trechos": [
+          1,
+          3,
+          4,
+          8
+        ],
+        "pergunta": "Did school teach you this one? Be honest."
+      },
+      "trechos": [
+        {
+          "narracao": "No educated person in the Middle Ages believed the Earth was flat. Medieval universities taught that it was a sphere, straight out of the standard textbook.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "medieval manuscript spherical earth",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "That textbook, Sacrobosco's On the Sphere from around 1230, proves it on the first pages: ships disappear over the horizon hull first. Students memorized it for centuries.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Sacrobosco De sphaera",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "So who sold you the flat Earth? An American writer. In 1828 Washington Irving published a biography of Columbus, and he simply invented a few dramatic scenes.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Washington Irving — 1828",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "In his version, Columbus stands before a council of stubborn churchmen who insist he'll sail right off the edge of the world. That meeting never happened.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A sailor captain holding a rolled map argues in a candlelit stone council hall before a long table of stern churchmen in robes and tall hats; one churchman smugly holds up a drawing of a flat square world with water pouring off its edge",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "The real argument was about size, not shape. Columbus thought the Earth was small. His critics said it was huge. And, annoyingly for him, the critics were right.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Toscanelli map Atlantic",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "rindo"
+          }
+        },
+        {
+          "narracao": "The oldest globe that still survives was built in Nuremberg in 1492, the same year Columbus sailed. It is, you'll be shocked to hear, completely round.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Behaim Erdapfel globe",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "globo"
+          }
+        },
+        {
+          "narracao": "So the timeline goes: monks knew, universities knew, globe makers knew. Then a nineteenth-century writer decided the past should look a little dumber.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "c. 1230 → 1492 → 1828",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: five out of five. The flat Earth myth isn't medieval at all. It's barely two hundred years old, which makes it younger than the United States Constitution.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 5/5",
+            "mascote": "facepalm"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Educated medieval Europeans accepted a spherical Earth; the flat-Earth story was popularized by Washington Irving's 1828 Columbus biography; the dispute with Columbus was about the Earth's size",
+          "url": "https://en.wikipedia.org/wiki/Myth_of_the_flat_Earth"
+        },
+        {
+          "afirmacao": "Sacrobosco's De sphaera (c. 1230) was a standard university textbook arguing the Earth is a sphere",
+          "url": "https://en.wikipedia.org/wiki/De_sphaera_mundi"
+        },
+        {
+          "afirmacao": "Martin Behaim's Erdapfel (Nuremberg, 1492) is the oldest surviving terrestrial globe",
+          "url": "https://en.wikipedia.org/wiki/Erdapfel"
+        },
+        {
+          "afirmacao": "Irving's invented council scene and the size argument",
+          "url": "https://mappingignorance.org/2017/01/16/columbus-shape-earth-holywood-story/"
+        }
+      ]
+    },
+    {
+      "titulo": "The Chastity Belt",
+      "short": {
+        "titulo": "The Medieval Chastity Belt Was a Joke #Shorts",
+        "hashtags": [
+          "#history",
+          "#medieval",
+          "#mythbusting"
+        ],
+        "trechos": [
+          1,
+          2,
+          3,
+          8
+        ],
+        "pergunta": "Which medieval myth should I bust next?"
+      },
+      "trechos": [
+        {
+          "narracao": "Medieval knights did not lock their wives in iron chastity belts before riding off to war. There's no solid evidence anyone in the Middle Ages ever used one.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "chastity belt museum",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "The earliest drawing appears in 1405, in Konrad Kyeser's Bellifortis, a serious book about war machines. Right between the siege engines, he slipped in a joke.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Bellifortis — 1405",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "His caption calls it hard iron breeches for the women of Florence. Historians read it the way you'd read a cartoon hidden in the back of an engineering manual.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A medieval engineer at a desk covered in siege-machine blueprints smirks as he secretly sketches ridiculous iron underpants with a giant padlock, while a colleague peers over his shoulder in total disbelief",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "In 2007 the medievalist Albrecht Classen went looking for real cases. He found satire, jokes and allegories about faithful wives, but not one documented locked-up woman.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Bellifortis Kyeser manuscript",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lupa"
+          }
+        },
+        {
+          "narracao": "And the iron belts in museums? Several have been re-dated to the eighteenth and nineteenth centuries, made for collectors who loved a spicy medieval horror story.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "chastity belt",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "It's the same nineteenth-century craze that gave us the iron maiden, another medieval torture device that was mostly assembled in the 1800s from random old pieces.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "iron maiden Nuremberg torture",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "So the chastity belt is less a medieval invention and more a later fantasy about how barbaric the past must have been. Very flattering for the people telling it.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1405 → 1800s → 2007",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: four out of five. A few belts did exist later, mostly as novelties. But a crusader locking up his wife? That's a dirty joke that went viral.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 4/5",
+            "mascote": "dando_de_ombros"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "No reliable evidence of medieval use; earliest depiction in Kyeser's Bellifortis (1405), read as a joke; Classen's 2007 study; museum examples re-dated",
+          "url": "https://en.wikipedia.org/wiki/Chastity_belt"
+        },
+        {
+          "afirmacao": "Albrecht Classen, The Medieval Chastity Belt: A Myth-Making Process (2007)",
+          "url": "https://www.medievalists.net/2011/06/the-medieval-chastity-belt-a-myth-making-process/"
+        },
+        {
+          "afirmacao": "Kyeser's caption about the iron breeches of Florentine women",
+          "url": "https://www.atlasobscura.com/articles/everything-youve-heard-about-chastity-belts-is-a-lie"
+        },
+        {
+          "afirmacao": "The iron maiden was likely assembled in the 19th century",
+          "url": "https://en.wikipedia.org/wiki/Iron_maiden"
+        }
+      ]
+    },
+    {
+      "titulo": "Nobody Bathed",
+      "short": {
+        "titulo": "Medieval People Bathed More Than You Think #Shorts",
+        "hashtags": [
+          "#history",
+          "#medieval",
+          "#hygiene"
+        ],
+        "trechos": [
+          1,
+          2,
+          3,
+          8
+        ],
+        "pergunta": "Would you share a medieval bathtub? Be honest."
+      },
+      "trechos": [
+        {
+          "narracao": "Medieval people bathed. A lot. Towns all over Europe had public bathhouses with hot water, steam rooms and big wooden tubs you could share with your friends.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "medieval bathhouse miniature",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Around 1292, Paris alone had about twenty-six public bathhouses, called étuves. The bath keepers even had their own guild, with rules on prices and opening hours.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Paris, 1292: 26 bathhouses",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Every morning, criers walked the streets shouting that the baths were hot. Basically a medieval alarm clock yelling at you to come and get clean.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A town crier in a narrow medieval street at dawn shouts through cupped hands, steam pouring out of a bathhouse door behind him, while sleepy townspeople in nightcaps lean out of their windows holding towels",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Rich families bathed at home in wooden tubs lined with cloth, so nobody got splinters in awkward places. Medieval manuscripts are full of people happily soaking.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Wenceslas Bible bath",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "rindo"
+          }
+        },
+        {
+          "narracao": "Etiquette books told you to wash your hands and face every morning and before every meal. Showing up to dinner with dirty fingers was simply rude.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "medieval aquamanile",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "So where did the filthy medieval peasant come from? Mostly from later centuries. After plague waves, doctors warned that hot water opened your pores to disease.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1292 → 1348 → 1500s",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "By the 1500s and 1600s, many bathhouses had closed, and people changed their linen shirts instead of bathing. Hollywood just pushed that grime back a few centuries.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1600s: change shirt, skip bath",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: four out of five. Were medieval people as clean as you? No. But they bathed more than the people who later called them filthy.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 4/5",
+            "mascote": "rindo"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Medieval people bathed; Paris bathhouse keepers were a regulated guild; criers announced the baths",
+          "url": "https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/"
+        },
+        {
+          "afirmacao": "About 26 étuves in Paris by 1292, largely closed by the end of the 16th century",
+          "url": "https://parisvoice.com/?p=392"
+        },
+        {
+          "afirmacao": "Bathhouses were central to city life in northern France, 1200–1500",
+          "url": "https://digitalcommons.oberlin.edu/faculty_schol/4767"
+        },
+        {
+          "afirmacao": "Public bathing history and the later decline of bathhouses",
+          "url": "https://en.wikipedia.org/wiki/Public_bathing"
+        }
+      ]
+    },
+    {
+      "titulo": "Everyone Died at 30",
+      "short": {
+        "titulo": "Medieval People Didn't Die at 30 #Shorts",
+        "hashtags": [
+          "#history",
+          "#medieval",
+          "#mythbusting"
+        ],
+        "trechos": [
+          1,
+          2,
+          4,
+          8
+        ],
+        "pergunta": "Did you believe the 'died at 30' thing?"
+      },
+      "trechos": [
+        {
+          "narracao": "People in the Middle Ages did not all die at thirty. That number is an average, and averages lie when huge numbers of babies don't survive.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Life expectancy ≠ lifespan",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "If half of all children die very young, and everyone else lives to about sixty, the average lands near thirty. Yet almost nobody actually dies at thirty.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "(0 + 60) ÷ 2 ≈ 30",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "Survive childhood, and the picture changes. Records from English villages show that a man who reached twenty could expect another twenty or thirty years, and plenty went far beyond that.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "medieval peasants harvest manuscript",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Take Eleanor of Aquitaine. She rode on crusade, married two kings, outlived most of her ten children, and kept going long after everyone expected her to stop.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A very old but energetic queen with a crown and long veil riding a horse briskly across the medieval countryside, leaving behind a group of exhausted young knights bent over and gasping for breath",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Born in 1122. Queen of France at fifteen. Queen of England at thirty-two. Still meddling in politics when she died in 1204, at eighty-two.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1122 → 1137 → 1154 → 1204",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Then there's Enrico Dandolo, the blind Doge of Venice, who helped lead the Fourth Crusade in 1204 while in his nineties. Blind. In his nineties. On a crusade.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Enrico Dandolo Doge Venice",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "The real danger zone was early childhood. Disease, famine and childbirth were brutal. But once you made it through, old age was not some medieval fantasy.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Danger zone: age 0–5",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: five out of five. Medieval people grew old, grumpy and wrinkly, just like us. They simply complained about their knees by candlelight.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 5/5",
+            "mascote": "rindo"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Low medieval life expectancy at birth was driven by child mortality; adults who survived childhood lived much longer",
+          "url": "https://en.wikipedia.org/wiki/Life_expectancy"
+        },
+        {
+          "afirmacao": "Medievalists on the 'died at 35' myth and what age counted as old",
+          "url": "https://www.skeptic.org.uk/2025/07/what-age-was-actually-considered-old-in-medieval-europe/"
+        },
+        {
+          "afirmacao": "Eleanor of Aquitaine (1122–1204): queen of France in 1137, queen of England in 1154, went on the Second Crusade",
+          "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        },
+        {
+          "afirmacao": "Enrico Dandolo, blind and in his nineties, led Venice in the Fourth Crusade (1204)",
+          "url": "https://en.wikipedia.org/wiki/Enrico_Dandolo"
+        }
+      ]
+    },
+    {
+      "titulo": "The Right of the First Night",
+      "short": {
+        "titulo": "The 'First Night' Law Never Existed #Shorts",
+        "hashtags": [
+          "#history",
+          "#medieval",
+          "#braveheart"
+        ],
+        "trechos": [
+          1,
+          3,
+          4,
+          8
+        ],
+        "pergunta": "Did Braveheart fool you too? Be honest."
+      },
+      "trechos": [
+        {
+          "narracao": "Medieval lords did not have a legal right to sleep with every bride on her wedding night. Historians have searched for centuries and found no real case.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "medieval wedding manuscript",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Back in 1881, the German scholar Karl Schmidt called it a learned superstition. In 1995 the French historian Alain Boureau checked every claimed case again. Same result.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "\"A learned superstition\"",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "So why does everyone know it? Thank the theater. In 1784, Beaumarchais' play The Marriage of Figaro built its whole plot around a count trying to revive this 'ancient right'.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Beaumarchais — 1784",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Then Mozart turned it into an opera, and suddenly all of Europe was sure medieval nobles had done exactly this. Fiction became history by sheer popularity.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A packed 18th-century opera house, the audience in powdered wigs gasping and fainting in their seats as a singer on stage points accusingly at a villain count with a curled mustache and a ridiculous feathered hat",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "In 1995, Braveheart put it on screen again, with an English king reviving the custom in Scotland. It's a great movie and a terrible history lesson.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Braveheart — 1995",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "What did exist were marriage fees. Peasants sometimes paid their lord for permission to marry, especially outside his lands. Annoying, yes. A tax, not a bedroom privilege.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Luttrell Psalter peasants",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "So the whole timeline is modern: a French play, a Mozart opera, a German debunking and a Hollywood revival. Medieval sources stay suspiciously quiet the whole time.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1784 → 1786 → 1881 → 1995",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: five out of five. The creepiest medieval law turns out to be an eighteenth-century plot device. Feudal lords were awful in plenty of real ways. Not this one.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 5/5",
+            "mascote": "facepalm"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "No evidence the droit du seigneur was practised; Karl Schmidt (1881) and Alain Boureau (1995); The Marriage of Figaro; Braveheart; marriage fees (merchet)",
+          "url": "https://en.wikipedia.org/wiki/Droit_du_seigneur"
+        },
+        {
+          "afirmacao": "Review of Boureau's study concluding the droit de cuissage never existed",
+          "url": "https://scholarworks.iu.edu/journals/index.php/tmr/article/view/14772"
+        },
+        {
+          "afirmacao": "Beaumarchais' play (1784) and Mozart's opera (1786)",
+          "url": "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro"
+        }
+      ]
+    },
+    {
+      "titulo": "Knights on Cranes",
+      "short": {
+        "titulo": "Knights Didn't Need Cranes #Shorts",
+        "hashtags": [
+          "#history",
+          "#medieval",
+          "#knights"
+        ],
+        "trechos": [
+          1,
+          3,
+          4,
+          8
+        ],
+        "pergunta": "Could you climb a ladder in armor?"
+      },
+      "trechos": [
+        {
+          "narracao": "Knights did not need a crane to get onto their horses. A full suit of field armor weighed about twenty to twenty-five kilos, spread across the whole body.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Gothic plate armour 15th century",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "That's lighter than a modern soldier's combat load. And because the weight sits on your shoulders, hips and legs, you can run, climb and roll in it.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Field armor: ~20–25 kg",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "The crane comes from the 1944 film of Shakespeare's Henry V, where knights are hoisted into their saddles with ropes. It looked great. It never happened.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Henry V (film) — 1944",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Real knights trained by vaulting into the saddle in armor. The French marshal Boucicaut was said to climb the underside of a ladder using only his arms.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A knight in full plate armor climbs the underside of a tall wooden ladder hand over hand using only his arms, while a stunned squire below holds the rope of a useless wooden crane",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Modern tests back this up. Researchers wearing accurate replica armor can get up from the ground, roll, climb ladders and even do push-ups in it.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Royal Armouries plate armour",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lupa"
+          }
+        },
+        {
+          "narracao": "The honest catch? It was exhausting. A 2011 study found that walking and running in armor roughly doubles the energy you burn, and breathing gets harder.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "medieval tournament manuscript knights",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "Fun twist: at Agincourt in 1415, French knights really did struggle, but in deep mud, not on cranes. Shakespeare wrote it up in 1599. The crane showed up in 1944.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1415 → 1599 → 1944",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: four out of five. Armor was heavy and tiring, but knights were athletes in steel, not tin cans lowered onto horses by a construction crew.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 4/5",
+            "mascote": "dando_de_ombros"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Full field plate armour weighed roughly 15–25 kg and allowed considerable mobility",
+          "url": "https://en.wikipedia.org/wiki/Plate_armour"
+        },
+        {
+          "afirmacao": "The crane image spread through the film Henry V (1944); Boucicaut's training feats",
+          "url": "https://www.history.co.uk/shows/knight-fight/articles/debunking-the-biggest-myths-about-knights-armour"
+        },
+        {
+          "afirmacao": "Experiments in replica armour: getting up, rolling, climbing",
+          "url": "https://www.medievalists.net/2016/07/can-you-move-in-armour-an-experiment-in-mythbusting/"
+        },
+        {
+          "afirmacao": "2011 study: armour roughly doubled the energy cost of walking and running and restricted breathing",
+          "url": "https://www.medievalists.net/2011/07/the-weight-of-medieval-armour-could-cause-defeat-in-battle-new-research-finds/"
+        },
+        {
+          "afirmacao": "Boucicaut (Jean II Le Maingre), marshal of France",
+          "url": "https://en.wikipedia.org/wiki/Jean_II_Le_Maingre"
+        }
+      ]
+    },
+    {
+      "titulo": "Medieval Witch Burnings",
+      "short": {
+        "titulo": "The Witch Burnings Weren't Medieval #Shorts",
+        "hashtags": [
+          "#history",
+          "#witches",
+          "#mythbusting"
+        ],
+        "trechos": [
+          1,
+          3,
+          4,
+          8
+        ],
+        "pergunta": "Did you think this was medieval too?"
+      },
+      "trechos": [
+        {
+          "narracao": "The great witch burnings were not medieval. The worst witch hunts in Europe happened between about 1560 and 1630, in the age of Shakespeare and Galileo.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "witch trial woodcut 16th century",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "In fact, the medieval Church's official line, from around 906, was that witches flying through the night were a delusion. Believing in them was the sin.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Canon Episcopi — c. 906",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Things turned in 1486, when Heinrich Kramer published the Hammer of Witches. Thanks to the brand-new printing press, his paranoia went viral across Europe.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Malleus Maleficarum — 1486",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Picture a German town around 1600: a judge with a printed manual, a terrified neighbor, and an accusation that started with a sick cow.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A stern judge in a black Renaissance robe reads from a thick printed book in a wooden courtroom and points at a frightened woman, while a grumpy farmer behind her holds a rope tied to a sad, sick-looking cow",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "The epicenter was the Holy Roman Empire. In the Trier witch trials of the 1580s and 1590s alone, hundreds of people were executed.",
+          "visual": {
+            "tipo": "mapa",
+            "busca": "map Holy Roman Empire 1600",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "Even Salem, the most famous witch trial of all, happened in 1692. That's closer to the invention of the steam engine than to the Middle Ages.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "c. 906 → 1486 → 1560–1630 → 1692",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "And here's the kicker: nobody at Salem was burned. They were hanged. England and its colonies hanged witches; the bonfires were mostly a continental thing.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Salem: 0 burned",
+            "mascote": "rindo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: five out of five. The witch craze belongs to the Renaissance, the era we like to call enlightened. Blaming the Middle Ages is just very convenient.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 5/5",
+            "mascote": "facepalm"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Witch trials peaked c. 1560–1630; burning in some regions; tens of thousands executed",
+          "url": "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period"
+        },
+        {
+          "afirmacao": "The Canon Episcopi (recorded c. 906) treated night-flying witches as a delusion",
+          "url": "https://en.wikipedia.org/wiki/Canon_Episcopi"
+        },
+        {
+          "afirmacao": "Heinrich Kramer's Malleus Maleficarum (1486) and the printing press",
+          "url": "https://en.wikipedia.org/wiki/Malleus_Maleficarum"
+        },
+        {
+          "afirmacao": "Trier witch trials (1581–1593), hundreds executed",
+          "url": "https://en.wikipedia.org/wiki/Trier_witch_trials"
+        },
+        {
+          "afirmacao": "Salem (1692): those executed were hanged, none burned",
+          "url": "https://en.wikipedia.org/wiki/Salem_witch_trials"
+        }
+      ]
+    }
+  ],
+  "outro": [
+    {
+      "narracao": "Seven medieval facts, and the same pattern every time. Most of what you know about the Middle Ages was invented later, by people who wanted to look smarter by comparison.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "Medieval ≠ stupid",
+        "mascote": "explicando"
+      }
+    },
+    {
+      "narracao": "Next week, the Romans get the same treatment. Subscribe, hit like, and turn on notifications so you don't miss it.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "Subscribe · Like · Notifications",
+        "mascote": "apontando"
+      }
+    }
+  ],
+  "alertas": [
+    "Estilo novo: primeiro episódio em stick figure (decisão do Rodrigo em 2026-10-17); o Snorri também foi redesenhado em stick figure nas cenas e nas poses.",
+    "Outro: anuncia os romanos (roman-myths, aprovada) como próximo vídeo; o calendário da estratégia punha o myths-true (★, ainda não aprovado) em 31/10.",
+    "Cap. 1: 'nenhuma pessoa instruída' segue Jeffrey Burton Russell ('com raríssimas exceções'); houve pouquíssimos defensores da Terra plana (ex.: Lactâncio, Cosmas), que não eram a regra.",
+    "Cap. 2: o re-datamento das peças de museu (British Museum e Germanisches Nationalmuseum) vem da Wikipedia; o roteiro diz só 'várias'.",
+    "Cap. 3: o número de étuves em Paris varia nas fontes (26 em 1292 é o mais citado; há quem fale em 32). Os pregoeiros que anunciavam os banhos quentes vêm do Going Medieval (Crieries de Paris).",
+    "Cap. 4: a conta (0 + 60) ÷ 2 ≈ 30 é ilustrativa, não um dado. A idade de Dandolo é estimada (nasceu c. 1107): 'nos noventa' é o consenso.",
+    "Cap. 5: o roteiro diz que não há caso comprovado; há relatos isolados (ex.: Fléchier, 1665) tratados como lenda ou negociação de taxa.",
+    "Cap. 6: a escada de Boucicaut vem da biografia elogiosa dele (Livre des fais, c. 1409), por isso 'was said to'. A cena do guindaste no Henry V de 1944 vem do artigo da History UK; conferir se quiser citar a cena exata.",
+    "Cap. 7: em Salem, Giles Corey morreu prensado (não enforcado); o roteiro diz que ninguém foi queimado, o que continua certo."
+  ]
+}

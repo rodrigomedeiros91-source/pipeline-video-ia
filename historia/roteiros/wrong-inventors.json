@@ -1,0 +1,885 @@
+{
+  "slug": "wrong-inventors",
+  "formato": 2,
+  "titulo": "Edison Didn't Invent the Light Bulb (And 6 Other Wrong Inventors)",
+  "descricao_youtube": "Edison didn't invent the light bulb, Bell probably wasn't first with the telephone, and Henry Ford didn't build the first car. Seven famous inventions credited to the wrong person, who really did it first, and the 100-year fight between Brazil and the USA over who invented the airplane. Every claim is sourced below.",
+  "tags": [
+    "history",
+    "inventions",
+    "history myths",
+    "who really invented",
+    "edison",
+    "joseph swan",
+    "antonio meucci",
+    "karl benz",
+    "gutenberg",
+    "bi sheng",
+    "james watt",
+    "marconi",
+    "tesla",
+    "santos dumont",
+    "wright brothers"
+  ],
+  "intro": [
+    {
+      "narracao": "Edison didn't invent the light bulb. Bell probably wasn't first with the telephone. And Henry Ford didn't build the first car. Not even close.",
+      "visual": {
+        "tipo": "cena",
+        "busca": "",
+        "cena": "The channel mascot troll in a 19th-century inventor's workshop at night, a glowing light bulb above his raised finger, grinning at the camera",
+        "texto_tela": "",
+        "mascote": ""
+      }
+    },
+    {
+      "narracao": "Today: seven inventions credited to the wrong person, who really did it first, and one fight between two countries that is still going after a hundred years.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "7 inventions. 7 wrong names.",
+        "mascote": "apontando"
+      }
+    }
+  ],
+  "capitulos": [
+    {
+      "titulo": "Edison and the Light Bulb",
+      "short": {
+        "titulo": "Edison Didn't Invent the Light Bulb #Shorts",
+        "hashtags": [
+          "#history",
+          "#edison",
+          "#inventions"
+        ],
+        "trechos": [
+          1,
+          3,
+          4,
+          8
+        ],
+        "pergunta": "Did your teacher say Edison? Be honest. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "Thomas Edison did not invent the light bulb. People were making electric light glow inside glass for decades before he ever touched a filament.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Thomas Edison portrait 1878",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Historians list at least twenty-two inventors who built incandescent lamps before Edison finally got his famous bulb working in October 1879.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1802 → 1840 → 1878 → 1879",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "The name you should know is Joseph Swan, an English chemist. In December 1878 he showed a glowing carbon lamp in Newcastle, ten months before Edison's big test.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Joseph Swan — 1878",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Swan's own house became the first home in the world lit by electric bulbs. Picture a Victorian gentleman flicking on the lights while his neighbors still squint at candles.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A proud Victorian gentleman with big white sideburns and a frock coat switching on glowing light bulbs in a conservatory full of plants at night, while astonished neighbors holding candles press their faces against the window outside",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "So what did Edison actually do? He made a bulb that lasted for hours, and then built the whole system around it: power plants, wires, switches and meters.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Edison carbon filament lamp 1879",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "That was the real genius. Edison didn't invent light, he invented selling it. His Pearl Street power station lit up Lower Manhattan in 1882.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Pearl Street Station Edison 1882",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "ideia"
+          }
+        },
+        {
+          "narracao": "And when Swan and Edison fought over patents in Britain, they didn't go to war. They merged into one company, named, with real poetry, Ediswan.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "EDISWAN (1883)",
+            "mascote": "rindo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: four out of five. Edison is guilty of brilliant marketing, which, to be fair, is how most of history actually works.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 4/5",
+            "mascote": "dando_de_ombros"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "At least 22 inventors made incandescent lamps before Swan and Edison; Edison's practical bulb in 1879",
+          "url": "https://www.energy.gov/articles/history-light-bulb"
+        },
+        {
+          "afirmacao": "Swan demonstrated his carbon lamp in Newcastle on 18 December 1878; his house Underhill was the first lit by bulbs; Ediswan merger in 1883",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Swan"
+        },
+        {
+          "afirmacao": "Earlier incandescent lamps (Davy, de la Rue 1840) and Edison's Pearl Street system",
+          "url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+        }
+      ]
+    },
+    {
+      "titulo": "Bell and the Telephone",
+      "short": {
+        "titulo": "Bell Probably Didn't Invent the Telephone #Shorts",
+        "hashtags": [
+          "#history",
+          "#telephone",
+          "#inventions"
+        ],
+        "trechos": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "pergunta": "Bell or Meucci? Pick a side. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "Alexander Graham Bell probably wasn't the first person to send a voice down a wire. An Italian candle maker in New York may have beaten him by decades.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Alexander Graham Bell portrait",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Antonio Meucci built a talking telegraph in the 1850s, and in 1871 he filed a legal notice describing it, five years before Bell's patent.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Antonio Meucci portrait",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Then life happened. Meucci was poor, sick, and barely spoke English. In 1874 he couldn't pay the ten dollar renewal, and his claim simply expired.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Antonio Meucci — 1871",
+            "mascote": "facepalm"
+          }
+        },
+        {
+          "narracao": "He had wired his own house so he could talk to his bedridden wife from his workshop. The first home phone line, built out of love and spare parts.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "An old bearded Italian inventor in an apron speaking into a strange cone-shaped device in a cluttered 1850s workshop, a wire running up a wooden staircase to a bedroom where his smiling wife lies in bed holding a similar cone to her ear",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Bell filed his patent on February 14, 1876. That very same day, another inventor, Elisha Gray, filed papers for almost the same idea. Just hours apart.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1871 → 1874 → 1876",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "Years of lawsuits and accusations followed. Bell won them, kept the patent, and his company became one of the biggest businesses on the planet.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Alexander Graham Bell early telephone 1876",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "entediado"
+          }
+        },
+        {
+          "narracao": "Meucci's case reached the courts too, but he died in 1889 before it was settled. In 2002 the US House of Representatives passed a resolution honoring his work.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Garibaldi Meucci Museum Staten Island",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: three out of five. Bell built the phone that worked and sold. Meucci built the one nobody could afford to protect.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 3/5",
+            "mascote": "dando_de_ombros"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Meucci's 1850s telettrofono, 1871 caveat, failure to renew in 1874, death in 1889 and the 2002 House resolution",
+          "url": "https://en.wikipedia.org/wiki/Antonio_Meucci"
+        },
+        {
+          "afirmacao": "Bell and Elisha Gray filed on the same day, 14 February 1876, and the patent disputes that followed",
+          "url": "https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy"
+        }
+      ]
+    },
+    {
+      "titulo": "Ford and the Car",
+      "short": {
+        "titulo": "Henry Ford Didn't Invent the Car #Shorts",
+        "hashtags": [
+          "#history",
+          "#cars",
+          "#inventions"
+        ],
+        "trechos": [
+          1,
+          2,
+          3,
+          4,
+          8
+        ],
+        "pergunta": "Did you know Bertha Benz? Be honest. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "Henry Ford did not invent the car. When his first homemade vehicle rolled out in 1896, Germans had been driving cars for ten years.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Ford Quadricycle 1896",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Karl Benz filed the patent for his three-wheeled Motorwagen in January 1886, and it is widely seen as the first true automobile.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Benz Patent-Motorwagen 1886",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "And the first long road trip? That was his wife, Bertha Benz. In 1888 she took the car without telling him and drove about a hundred kilometers.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Karl & Bertha Benz — 1886",
+            "mascote": "rindo"
+          }
+        },
+        {
+          "narracao": "She cleaned a blocked fuel line with a hat pin, insulated a wire with her garter, and bought fuel at a pharmacy. Best test drive in history.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A determined woman in an 1880s dress and bonnet driving an early three-wheeled motor carriage on a dirt country road, two teenage boys pushing it uphill, a village pharmacist in a white coat handing her a bottle of fuel",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "So why do we remember Ford? Because in 1913 he made cars cheap. His moving assembly line cut the time to build a Model T from about twelve hours to around ninety minutes.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1886 → 1896 → 1908 → 1913",
+            "mascote": "ideia"
+          }
+        },
+        {
+          "narracao": "Suddenly a factory worker could afford the very thing he was building, and the price kept falling for years. That changed everyday life far more than any single invention did.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Ford Model T assembly line Highland Park 1913",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "Even the assembly line was borrowed. Ford's engineers copied Chicago meatpackers, who moved carcasses past workers on overhead lines. The car industry learned from a slaughterhouse.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Inspired by... slaughterhouses",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: four out of five. Henry Ford didn't invent the car. He invented the traffic jam.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 4/5",
+            "mascote": "rindo"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Benz filed patent DRP 37435 on 29 January 1886 for the Motorwagen",
+          "url": "https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen"
+        },
+        {
+          "afirmacao": "Bertha Benz's 1888 trip of about 106 km without telling her husband; hat pin, garter and pharmacy fuel",
+          "url": "https://en.wikipedia.org/wiki/Bertha_Benz"
+        },
+        {
+          "afirmacao": "Model T from 1908; moving assembly line in 1913 cut assembly time from about 12 hours to about 93 minutes",
+          "url": "https://en.wikipedia.org/wiki/Ford_Model_T"
+        },
+        {
+          "afirmacao": "Ford's line was inspired by meatpacking disassembly lines; Ford's first vehicle, the Quadricycle, in 1896",
+          "url": "https://en.wikipedia.org/wiki/Assembly_line"
+        }
+      ]
+    },
+    {
+      "titulo": "Gutenberg and the Printing Press",
+      "short": {
+        "titulo": "Gutenberg Wasn't First to Print With Movable Type #Shorts",
+        "hashtags": [
+          "#history",
+          "#gutenberg",
+          "#inventions"
+        ],
+        "trechos": [
+          1,
+          2,
+          4,
+          8
+        ],
+        "pergunta": "Did you know about Bi Sheng? Be honest. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "Johannes Gutenberg did not invent printing with movable type. In China, a craftsman named Bi Sheng was doing it about four hundred years earlier.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Johannes Gutenberg engraving portrait",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Around 1040, Bi Sheng carved characters into little blocks of baked clay that could be arranged, printed and reused, as recorded by the scholar Shen Kuo.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Bi Sheng — c. 1040",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Then Korea went metal. A Buddhist book called the Jikji was printed with metal type in 1377, almost eighty years before the Gutenberg Bible.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1040 → 1377 → 1455",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Picture Gutenberg in Mainz, proudly unveiling his new machine to the whole town, while a printer from four centuries earlier politely taps him on the shoulder.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A proud 15th-century German craftsman with a long beard and a fur hat unveiling a big wooden printing press in a Mainz workshop full of townspeople, while a calm medieval Chinese craftsman in Song dynasty robes holding a tray of small clay type blocks taps him on the shoulder",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "To be fair, Gutenberg's real breakthrough was the whole package: a hand mould to cast letters fast, oil-based ink, and a screw press adapted from wine making.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Gutenberg printing press replica",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "European alphabets also helped. A few dozen letters are perfect for movable type. Chinese writing needs thousands of characters, which makes the same trick far harder.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "26 letters vs. thousands",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "That's why Gutenberg's version exploded across Europe. By 1500, presses had turned out millions of books, and nobody could put the genie back in the bottle.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Gutenberg Bible",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "comemorando"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: three out of five. Gutenberg was a genius. He just wasn't the first one, and Bi Sheng deserves a statue.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 3/5",
+            "mascote": "dando_de_ombros"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Bi Sheng invented clay movable type around 1040, recorded by Shen Kuo in the Dream Pool Essays",
+          "url": "https://en.wikipedia.org/wiki/Bi_Sheng"
+        },
+        {
+          "afirmacao": "The Jikji was printed with metal movable type in 1377",
+          "url": "https://en.wikipedia.org/wiki/Jikji"
+        },
+        {
+          "afirmacao": "Gutenberg's hand mould, oil-based ink, adapted screw press, the Gutenberg Bible c. 1455 and the spread of printing in Europe",
+          "url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        }
+      ]
+    },
+    {
+      "titulo": "Watt and the Steam Engine",
+      "short": {
+        "titulo": "James Watt Didn't Invent the Steam Engine #Shorts",
+        "hashtags": [
+          "#history",
+          "#steamengine",
+          "#inventions"
+        ],
+        "trechos": [
+          1,
+          2,
+          4,
+          5,
+          8
+        ],
+        "pergunta": "Should Newcomen get the credit? Vote below. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "James Watt did not invent the steam engine. Steam engines were already pumping water out of English mines before he was even born.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "James Watt portrait",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "Thomas Newcomen built his working steam engine in 1712, twenty-four years before Watt arrived on the planet.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Thomas Newcomen — 1712",
+            "mascote": "apontando"
+          }
+        },
+        {
+          "narracao": "Newcomen's machine was a beast: huge, slow, and it burned an absurd amount of coal. But it worked, and engines like it spread to mines all over Britain.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Newcomen atmospheric engine drawing",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "entediado"
+          }
+        },
+        {
+          "narracao": "Then, in the 1760s, a young instrument maker in Glasgow was asked to repair a small model of one. It annoyed him so much that he fixed the whole design.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A young 18th-century Scottish instrument maker with tied-back hair frowning at a small brass model steam engine puffing steam on a university workbench, papers full of calculations scattered around and a broken tool in his hand",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Watt's big idea was a separate condenser, so the engine stopped wasting heat on every stroke. His version burned roughly a quarter of the coal.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1712 → 1736 → 1765 → 1776",
+            "mascote": "ideia"
+          }
+        },
+        {
+          "narracao": "And if you want to go further back, a Greek engineer called Hero of Alexandria described a spinning steam ball almost two thousand years ago.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "aeolipile Hero of Alexandria",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "Nobody put it to work, though. The ancient world had real steam power in its hands for centuries and treated it as a clever curiosity.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Steam power... as a toy",
+            "mascote": "facepalm"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: three out of five. Watt didn't invent the steam engine, he made it worth buying. And yes, they named the unit of power after him anyway.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 3/5",
+            "mascote": "rindo"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Newcomen's atmospheric engine of 1712 and its spread to mines",
+          "url": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+        },
+        {
+          "afirmacao": "Watt repaired a Newcomen model in Glasgow, conceived the separate condenser in 1765 and greatly cut coal use; first engines installed in 1776",
+          "url": "https://en.wikipedia.org/wiki/Watt_steam_engine"
+        },
+        {
+          "afirmacao": "Hero of Alexandria described the aeolipile in the 1st century AD",
+          "url": "https://en.wikipedia.org/wiki/Aeolipile"
+        }
+      ]
+    },
+    {
+      "titulo": "Marconi and the Radio",
+      "short": {
+        "titulo": "Marconi Didn't Invent Radio Alone #Shorts",
+        "hashtags": [
+          "#history",
+          "#tesla",
+          "#inventions"
+        ],
+        "trechos": [
+          1,
+          2,
+          5,
+          7,
+          8
+        ],
+        "pergunta": "Tesla or Marconi? Fight in the comments. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "Guglielmo Marconi did not invent radio on his own. He was brilliant at one thing: turning other people's discoveries into a working business.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Guglielmo Marconi portrait",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "In 1943 the US Supreme Court threw out key parts of his radio patent, pointing to earlier work by Nikola Tesla, Oliver Lodge and John Stone Stone.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Supreme Court — 1943",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "The science came first from Heinrich Hertz, who proved in 1887 that radio waves were real, exactly as James Clerk Maxwell had predicted. Before that, they were just equations on paper.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1887 → 1895 → 1901 → 1943",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "In 1895, in Calcutta, Jagadish Chandra Bose sent invisible waves through walls to ring a bell and set off a small explosion in front of an audience.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Jagadish Chandra Bose",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "lendo"
+          }
+        },
+        {
+          "narracao": "Meanwhile, Tesla was in New York lighting bulbs without wires and filing patents, while a young Italian rushed across the ocean to build his stations.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "A tall thin inventor with a neat mustache in a dark suit standing calmly in a laboratory full of crackling electrical coils and bulbs glowing without wires, while through the window a young man in a bowler hat runs toward a steamship carrying a giant antenna",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "To be fair, Marconi did something huge. In 1901 his team sent a signal across the Atlantic, and in 1909 he shared the Nobel Prize in physics.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Marconi Signal Hill 1901",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "comemorando"
+          }
+        },
+        {
+          "narracao": "Radio was never one invention. It was a relay race, and Marconi was the guy who ran the last lap and got the medal.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "A relay race",
+            "mascote": "dando_de_ombros"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: three out of five. And Tesla fans, please calm down in the comments. I said three, not zero.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 3/5",
+            "mascote": "rindo"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "Hertz proved radio waves in 1887; the 1943 Supreme Court ruling on Marconi's patent cited prior art; Marconi's 1901 transatlantic signal",
+          "url": "https://en.wikipedia.org/wiki/Invention_of_radio"
+        },
+        {
+          "afirmacao": "Bose's 1895 public demonstration in Calcutta ringing a bell and igniting gunpowder at a distance",
+          "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+        },
+        {
+          "afirmacao": "Marconi shared the 1909 Nobel Prize in Physics with Karl Ferdinand Braun",
+          "url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+        }
+      ]
+    },
+    {
+      "titulo": "Santos-Dumont vs. the Wright Brothers",
+      "short": {
+        "titulo": "Who Really Invented the Airplane? #Shorts",
+        "hashtags": [
+          "#history",
+          "#santosdumont",
+          "#wrightbrothers"
+        ],
+        "trechos": [
+          1,
+          3,
+          4,
+          7
+        ],
+        "pergunta": "Wrights or Santos-Dumont? Choose your side. Subscribe for more."
+      },
+      "trechos": [
+        {
+          "narracao": "Who invented the airplane depends on where you ask. In America, it's the Wright brothers. In Brazil, it's Alberto Santos-Dumont, and people get loud about it.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Alberto Santos-Dumont portrait",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "cetico"
+          }
+        },
+        {
+          "narracao": "The Wrights flew first: December 17, 1903, at Kitty Hawk, twelve seconds in the air, with a handful of local witnesses and no reporters.",
+          "visual": {
+            "tipo": "linha_tempo",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "1903 → 1906 → 1908",
+            "mascote": "explicando"
+          }
+        },
+        {
+          "narracao": "But their Flyer launched from a wooden rail into a strong headwind. Brazilians love that detail: no wheels, and no takeoff on its own power alone. Case closed, says Brazil.",
+          "visual": {
+            "tipo": "cena",
+            "busca": "",
+            "cena": "Two brothers in early 1900s suits and flat caps launching a fragile wooden biplane from a long wooden rail on windy sand dunes, one running alongside the wingtip, a few amazed local men in work clothes watching",
+            "texto_tela": "",
+            "mascote": ""
+          }
+        },
+        {
+          "narracao": "Then, on October 23, 1906, in Paris, Santos-Dumont took off on wheels in his 14-bis, in front of a crowd and official judges.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Santos-Dumont — 1906",
+            "mascote": "comemorando"
+          }
+        },
+        {
+          "narracao": "Weeks later, on November 12, he flew two hundred and twenty meters, setting the first airplane record ever certified by the brand new international aviation federation.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Santos-Dumont 14-bis Bagatelle 1906",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "chocado"
+          }
+        },
+        {
+          "narracao": "The Wrights stayed secretive for years, refusing to show their machine without a contract. In 1908 they finally flew in public in France and stunned everyone with long, controlled turns.",
+          "visual": {
+            "tipo": "acervo",
+            "busca": "Wilbur Wright Le Mans 1908",
+            "cena": "",
+            "texto_tela": "",
+            "mascote": "pensando"
+          }
+        },
+        {
+          "narracao": "So, the honest answer. The Wrights flew first, with control. Santos-Dumont flew first in public, on wheels, with judges watching. Both deserve the poster.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "Both deserve the poster",
+            "mascote": "dando_de_ombros"
+          }
+        },
+        {
+          "narracao": "Troll-o-meter: two out of five, plus a hundred-year fight that is still going on in the comments. Choose wisely.",
+          "visual": {
+            "tipo": "texto",
+            "busca": "",
+            "cena": "",
+            "texto_tela": "TROLL-O-METER: 2/5",
+            "mascote": "rindo"
+          }
+        }
+      ],
+      "fontes": [
+        {
+          "afirmacao": "The Wright brothers' first flights on 17 December 1903, witnesses, launch rail and the public flights in France in 1908",
+          "url": "https://en.wikipedia.org/wiki/Wright_brothers"
+        },
+        {
+          "afirmacao": "The 1903 Wright Flyer at the Smithsonian",
+          "url": "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000"
+        },
+        {
+          "afirmacao": "14-bis flight of 23 October 1906 at Bagatelle before Aéro-Club de France observers and the 220 m record of 12 November 1906",
+          "url": "https://en.wikipedia.org/wiki/Santos-Dumont_14-bis"
+        },
+        {
+          "afirmacao": "Santos-Dumont's career and the Brazilian claim",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont"
+        }
+      ]
+    }
+  ],
+  "outro": [
+    {
+      "narracao": "Seven inventions, seven wrong names, and the same pattern every time. History remembers the person who made it famous, not the person who made it first.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "First ≠ famous",
+        "mascote": "explicando"
+      }
+    },
+    {
+      "narracao": "If that hurt, the next video is worse: medieval facts Hollywood sold you. Subscribe, hit like, and turn on notifications so you don't miss it.",
+      "visual": {
+        "tipo": "texto",
+        "busca": "",
+        "cena": "",
+        "texto_tela": "Subscribe · Like · Notifications",
+        "mascote": "apontando"
+      }
+    }
+  ],
+  "alertas": [
+    "Cap. 1: 'pelo menos 22 inventores antes de Edison' vem do Energy.gov (citando os historiadores Friedel e Israel); a contagem é dos historiadores, não exata.",
+    "Cap. 2: a taxa de renovação de US$ 10 que Meucci não conseguiu pagar aparece em relatos populares; a Wikipedia avisa que a resolução da Câmara de 2002 é um texto retórico e disputado. O roteiro diz só que ela foi aprovada e homenageia o trabalho dele.",
+    "Cap. 2: 'Bell provavelmente não foi o primeiro' é de propósito: a prioridade é disputada entre historiadores.",
+    "Cap. 3: 'de 12 horas para ~90 minutos' é o número de referência da Wikipedia (93 min); a inspiração nos frigoríficos de Chicago é a versão mais citada.",
+    "Cap. 4: 'milhões de livros até 1500' é estimativa (as fontes variam de 8 a 20 milhões).",
+    "Cap. 5: 'cerca de um quarto do carvão' é aproximação usual da economia do condensador de Watt.",
+    "Cap. 6: a decisão de 1943 da Suprema Corte é muitas vezes exagerada como 'Tesla inventou o rádio'. O roteiro diz só que ela derrubou partes da patente citando trabalhos anteriores (Tesla, Lodge, Stone).",
+    "Cap. 7: o recorde de 12/11/1906 é considerado o primeiro homologado pela FAI (fundada em 1905); o veredito 'os dois merecem o pôster' é a opinião do Snorri, pensada para gerar comentários dos dois lados.",
+    "Cenas: Edison, Ford, Tesla, Marconi e os irmãos Wright viveram até o século XX. Nas cenas eles aparecem como personagens genéricos, sem nome; os retratos reais vêm do acervo."
+  ]
+}
